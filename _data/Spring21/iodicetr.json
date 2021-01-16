@@ -1,0 +1,12 @@
+{
+  "emoji": ":nut_and_bolt:",
+  "role": "Student",
+  "introduction": "My name is Thomas Iodice and am a Technical Production major at CCM.",
+  "achievements": [
+      "I have nominated for five different technical theater awards.",
+      "I am proficient in two different types of welding, STICK and MIG."
+  ],
+  "links": {
+      "site": "thomasiodice.com",
+   }
+}
