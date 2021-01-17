@@ -1,0 +1,12 @@
+{
+  "emoji": ":smiley:",
+  "role": "Student",
+  "introduction": "I'm excited to use Git!",
+  "achievements": [
+    "achievement1: Straight As!",
+    "achievement2: I was on my high school's trivia team!"
+  ],
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/evan-osgood-a37145203/"
+  }
+}
