@@ -1,13 +1,14 @@
 {
   "emoji": ":smiling_imp:",
   "role": "Student!",
-  "introduction": "I'm excited to learn about you all!",
+  "introduction": "I'm excited to learn about you all! Myself Sheel Patel. I'm from India.",
   "achievements": [
     "Starting a major new project at ITSC",
-    "achievement2"
+    "Ran a marathon to spread awarness for cancer and won a gold medal."
   ],
   "links": {
-    "linkedin": "https://www.linkedin.com/in/yahyagilany",
-    "twitter": " "
+    "linkedin": "https://www.linkedin.com/in/sheelpatel",
+    "instagram": "https://www.instagram.com/_sheel.patel_/",
+    "snapchat": "spatel1801"
   }
 }
