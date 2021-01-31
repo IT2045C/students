@@ -1,14 +1,12 @@
 {
   "emoji": ":smirk_cat:",
   "role": "Instructor!",
-  "introduction": "I'm Jose Sebastian, I'm 19 years old and I'm really excited to learn more about programming this semester!",
+  "introduction": "I'm excited to learn about you all!",
   "achievements": [
-    "I won a mini videogames tournament",
-    "I was able to build mini programs"
-    "I learned to use different graphic design programs"
+    "Starting a major new project at ITSC",
   ],
   "links": {
-    "site": "https://www.youtube.com/channel/UC002XkEkalWIsTG47ySZoOw",
-    "linkedin": "https://www.linkedin.com/in/jose-sebastian-chacon-ascue/"
+    "site": "https://yahya-gilany.com",
+    "linkedin": "https://www.linkedin.com/in/yahyagilany"
   }
 }
