@@ -1,0 +1,12 @@
+{
+  "emoji": ":relieved:",
+  "role": "Student",
+  "introduction": "My name is Robert Conover currently attending UC for Information Technology degree and I am excited to advance through this course and learn more about programming after completing CP I last semester!",
+  "achievements": [
+      "Got a promotion at work recently",
+      "Getting my A+ and Net+ certification tests setup for the summer"
+  ],
+  "links": {
+      "linkedin": "https://www.linkedin.com/in/robert-conover-89b4b2161/",
+  }
+}
