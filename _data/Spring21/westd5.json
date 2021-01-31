@@ -1,0 +1,14 @@
+{
+  "emoji": ":turtle:",
+  "role": "Student",
+  "introduction": "I am a full time staff member at UC and this is my first semester taking classes.",
+  "achievements": [
+    "Assisted in over 10,000 password resets",
+    "Owns cat"
+	"Just drank a 24 oz cold brew coffee"
+  ],
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/daniel-west-488a65204",
+    "current_mood": "http://www.storeage1972.com/images/david_byrne_running.gif"
+  }
+}
