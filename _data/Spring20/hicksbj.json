@@ -1,0 +1,12 @@
+{
+    "emoji": ":poop:",
+    "role": "Student",
+    "introduction": "my naame is Ben Hicks and im a 20 software development student",
+    "achievements": [
+        "Deans list in the spring semester",
+        "being an employed student"
+    ],
+    "links": {
+        "linkedin": "https://www.linkedin.com/in/ben-hicks-298b26182/"
+    }
+  }
