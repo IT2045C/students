@@ -2,8 +2,8 @@
   "emoji": ":neutral_face:",
   "role": "Student",
   "introduction": "I am Tara, a first year IT student on the software development track.",
-  "achievements":
-    "A fully functional discord bot which uses api's to automatically get scores and track points for soccer game predictions for friendly competition use.",
+  "achievements": [
+    "A fully functional discord bot which uses api's to automatically get scores and track points for soccer game predictions for friendly competition use."
   ],
   "links": {
     "linkedin":"https://www.linkedin.com/in/tara-poudyel/"
